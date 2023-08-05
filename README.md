@@ -4,7 +4,7 @@ In this project, let's build a **Show/Hide App** by applying the concepts we hav
 
 <br/>
 <div style="text-align: center;">
-<img src="https://assets.ccbp.in/frontend/content/react-js/show-hide-output.gif" alt="reviews-app-output" style="max-width:85%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="" alt="reviews-app-output" style="max-width:85%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
